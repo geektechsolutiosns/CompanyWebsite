@@ -1,0 +1,32 @@
+*{
+    margin: auto;
+}
+.navtop{
+    color: white;
+    background-color:black;
+    height: 22px;
+    width: 100%;
+    padding-top: 5px;
+
+}
+.navtop p{
+    margin-left: 20px;
+    float: left;
+}
+.navtop .sml{
+    width: 320px;
+    float: right;
+    /* background-color: green; */
+}
+
+.sml .sml-icon a{
+    float: left;
+    padding:0px 3px 0px 3px;
+}
+.navtop .locations{
+    float: center;
+}
+.navtop .contact{
+    margin-right: 25px;
+    float: right;
+}
