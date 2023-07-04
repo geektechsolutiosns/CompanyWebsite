@@ -29,4 +29,9 @@
 .navtop .contact{
     margin-right: 25px;
     float: right;
+    text-decoration: none;
+}
+.nav-main{
+    height: 50px;
+    background-color: cornflowerblue;
 }
